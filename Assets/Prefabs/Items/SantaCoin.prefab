@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4305667951852130}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: SantaCoin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 58631139326851774}
   - component: {fileID: 114628756884839274}
   - component: {fileID: 114448709775357318}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: SantaCoin
   m_TagString: Coin
   m_Icon: {fileID: 0}

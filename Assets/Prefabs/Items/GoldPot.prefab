@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 483484}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: GoldPot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 4000013274571670}
   - component: {fileID: 108000013796247984}
   - component: {fileID: 95187318221972642}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: Point light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -157,7 +157,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4886141622922796}
   - component: {fileID: 96045756859803952}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: Trail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -301,7 +301,7 @@ GameObject:
   - component: {fileID: 50208270475949150}
   - component: {fileID: 114344263756026718}
   - component: {fileID: 60388371818581086}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: Pot
   m_TagString: Potion
   m_Icon: {fileID: 0}
@@ -615,7 +615,7 @@ GameObject:
   - component: {fileID: 4281206382204662}
   - component: {fileID: 198182395063285986}
   - component: {fileID: 199050376329932080}
-  m_Layer: 12
+  m_Layer: 10
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}

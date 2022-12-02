@@ -49,7 +49,7 @@ public class LevelManagerSave : MonoBehaviour
             lm.nxtLvlExp = sm.PtsToNxtLvl;
             lm.currentLevel = sm.currentLevel;
 
-            print("exp " + lm.exp + "/n" + "points " + "/n" + "nextlvl = " + lm.nxtLvlExp);
+            print("exp " + lm.exp + "\n" + "points " + "\n" + "nextlvl = " + lm.nxtLvlExp);
         }
 
     }

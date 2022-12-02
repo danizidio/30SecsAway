@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4634922621440972}
   - component: {fileID: 198904548592806114}
   - component: {fileID: 199417439445887228}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4836,7 +4836,7 @@ GameObject:
   - component: {fileID: 4179952771590558}
   - component: {fileID: 108597153307077554}
   - component: {fileID: 3163343416594833386}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Point light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4949,7 +4949,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4216927825453490}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: SpawnPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4980,7 +4980,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4828158614178114}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5016,7 +5016,7 @@ GameObject:
   - component: {fileID: 50925028672825818}
   - component: {fileID: 68309818360262936}
   - component: {fileID: 114439694759402442}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Tchest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5165,7 +5165,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4230140498764310}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: TreasureChest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
