@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Weapon
+  - Follow
+  - PlayerTrigger
+  - Bomb
+  - Enemy
+  - RedBar
+  - Coin
+  - Potion
+  - Fire
+  - NameText
+  - Enemy2
+  - PlayerRedBar
+  - PlayerBlueBar
+  - DirectionalLight
+  - DATA
+  - GLOBAL_LIGHT
+  - Cenario
+  - Walls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - FloatingPlatform
+  - PushPull
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SCENARIO
+    uniqueID: 4199333119
+    locked: 0
+  - name: ENEMIES
+    uniqueID: 97336785
+    locked: 0
+  - name: PLAYER
+    uniqueID: 843344161
+    locked: 0
+  - name: ITEMS
+    uniqueID: 3171961621
+    locked: 0
+  - name: FRONTSCENARIO
+    uniqueID: 890991351
+    locked: 0
+  - name: UI
+    uniqueID: 3017510763
+    locked: 0
