@@ -308,7 +308,6 @@ public class GameBehaviour : MonoBehaviour
 
         AsyncOperation loading = SceneManager.LoadSceneAsync(randomScene);
 
-        print("buscando!");
         if (randomScene != indexScene)
         {
             while (!loading.isDone)
