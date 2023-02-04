@@ -5416,7 +5416,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5741591224857176292, guid: d1a4a2fa0a53ad44a8be2a4a42372c2b, type: 3}
       propertyPath: m_Intensity
-      value: 1
+      value: 0.27
       objectReference: {fileID: 0}
     - target: {fileID: 5741591224857176292, guid: d1a4a2fa0a53ad44a8be2a4a42372c2b, type: 3}
       propertyPath: m_ApplyToSortingLayers.Array.size
@@ -6778,6 +6778,50 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114868718309691838, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: speed
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 234454955657510292, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -13.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 234454955657510292, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: -3.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 234454955657510292, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_Motor.m_MotorSpeed
+      value: -5
+      objectReference: {fileID: 0}
+    - target: {fileID: 234454955657510292, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_TranslationLimits.m_LowerTranslation
+      value: -150
+      objectReference: {fileID: 0}
+    - target: {fileID: 234454955657510292, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_TranslationLimits.m_UpperTranslation
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7040489540171740932, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_LightVolumeIntensity
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7040489540171740932, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_ShadowIntensityEnabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7040489540171740932, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_LightVolumeIntensityEnabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7040489540171740932, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7040489540171740932, guid: 230091363d384164d934348876c25abe, type: 3}
+      propertyPath: m_ApplyToSortingLayers.Array.data[5]
+      value: 890991351
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 230091363d384164d934348876c25abe, type: 3}
 --- !u!1 &1089322912
@@ -7151,6 +7195,18 @@ PrefabInstance:
     - target: {fileID: 4390918340597012, guid: 4d27d3c08b9855244aaa0ec151020e5e, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3664157346106893520, guid: 4d27d3c08b9855244aaa0ec151020e5e, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3664157346106893520, guid: 4d27d3c08b9855244aaa0ec151020e5e, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3664157346106893520, guid: 4d27d3c08b9855244aaa0ec151020e5e, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d27d3c08b9855244aaa0ec151020e5e, type: 3}

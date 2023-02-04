@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Ilumination
-  m_Shader: {fileID: -6465566751694194690, guid: 109e0325110c3e74f8eeb56738abcd59, type: 3}
+  m_Shader: {fileID: 4800000, guid: e260cfa7296ee7642b167f1eb5be5023, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _SURFACE_TYPE_TRANSPARENT
@@ -109,6 +109,7 @@ Material:
     - PixelSnap: 1
     - _AlphaClip: 0
     - _Blend: 0
+    - _BlendOp: 0
     - _BottomFixed: 1
     - _BottomSize: 0.137
     - _BumpScale: 1
@@ -127,6 +128,7 @@ Material:
     - _Parallax: 0.02
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _SampleGI: 0
     - _Scale: 3.07
     - _Shininess: 0
     - _Smoothness: 0.5
